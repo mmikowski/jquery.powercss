@@ -1,6 +1,6 @@
-{ "name": "jquery.powercss",
-  "version": "0.0.6",
-  "description": "PowerCSS empowers you to create run-time-logic-defined, highly compressible, extremely fast, infinitely adjustable, optimized, and double-buffered CSS without any CSS files! See https://www.youtube.com/watch?v=rnkMjzhxw4s.",
+{ "name": "powercss",
+  "version": "0.0.10",
+  "description": "Unleash PowerCSS to create custom CSS for every user that visits your site. PowerCSS uses merging, caching, compression, and double-buffering to exceed the speed and flexibility of static CSS. https://www.youtube.com/watch?v=rnkMjzhxw4s",
   "keywords": [
     "jquery-plugin",
     "ecosystem:jquery",
